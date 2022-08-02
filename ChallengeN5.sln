@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.API", "ChallengeN5.API\ChallengeN5.API.csproj", "{E3F74F07-214A-46F9-B37B-F088A99DCA4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.API", "ChallengeN5.API\ChallengeN5.API.csproj", "{E3F74F07-214A-46F9-B37B-F088A99DCA4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.BL", "ChallengeN5.BL\ChallengeN5.BL.csproj", "{AE4BD1C2-E431-4A59-8CFD-B1601C9CD80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.Test", "ChallengeN5.Test\ChallengeN5.Test.csproj", "{FE8C7FF8-5C2B-4A4A-823D-D23401436CEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE4BD1C2-E431-4A59-8CFD-B1601C9CD80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE4BD1C2-E431-4A59-8CFD-B1601C9CD80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE4BD1C2-E431-4A59-8CFD-B1601C9CD80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8C7FF8-5C2B-4A4A-823D-D23401436CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8C7FF8-5C2B-4A4A-823D-D23401436CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8C7FF8-5C2B-4A4A-823D-D23401436CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8C7FF8-5C2B-4A4A-823D-D23401436CEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

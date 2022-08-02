@@ -12,5 +12,9 @@ Open the ChallengeN5.sln solution with Visual Studio 2022 and excecute.
 
 ### Frontend (ReactJS)
 Open the ChallengeN5.ClientApp folder with PowerShell or CMD and execute the next scripts:
-    - npm install
-    - npm start
+```bash
+# first
+npm install
+# second
+npm start
+```
